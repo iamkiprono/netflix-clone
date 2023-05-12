@@ -3,7 +3,7 @@ import React from "react";
 const EnjoyTv = () => {
   return (
     <div>
-      <div className="h-[500px] flex items-center justify-center sm:flex-row gap-10 flex-col  p-5 ">
+      <div className=" flex items-center justify-center sm:flex-row gap-10 flex-col  px-5 py-20 ">
         <div className="w-[340px] text-center">
           <p className="text-5xl font-bold my-4">Enjoy on your TV</p>
           <p>
